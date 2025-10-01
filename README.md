@@ -10,10 +10,5 @@
  ### Estoy aprendiendo
 
  ### :zap: Actividad reciente
- <!--START_SECTION:activity-->
- <!--END_SECTION:activity-->
- <!--RECENT_ACTVITY:start-->
+ <!--RECENT_ACTIVITY:start-->
  <!--RECENT_ACTIVITY:last_update-->
-
- <!--RECENT_ACTIVITY:last_update-->
- <!--RECENT_ACTIVITY:last_update_end-->
